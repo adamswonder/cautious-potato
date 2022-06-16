@@ -80,10 +80,9 @@
         </div>
         <div class="media mt-4 pl-2">
           <img src="./images/logo.png" class="mr-3" height="75" />
-          
         </div>
           <div class="media-body">
-            <h6 class="mt-1">Enter Amount & Phone Number</h6>
+            <h6 class="mt-1">Enter amount & phone number below</h6>
           </div>
         <div class="media mt-3 pl-2">
                           <!--bs5 input-->
