@@ -80,10 +80,11 @@
         </div>
         <div class="media mt-4 pl-2">
           <img src="./images/logo.png" class="mr-3" height="75" />
+          
+        </div>
           <div class="media-body">
             <h6 class="mt-1">Enter Amount & Phone Number</h6>
           </div>
-        </div>
         <div class="media mt-3 pl-2">
                           <!--bs5 input-->
 
@@ -95,7 +96,7 @@
                 </div>
                 <div class="col-12">
                   <label for="inputAddress2" class="form-label" >Phone Number</label>
-                  <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number(following the format 2547)">
+                  <input type="text" class="form-control" name="phone"  placeholder="Enter number as 2547...">
                 </div>
              
                 <div class="col-12">
