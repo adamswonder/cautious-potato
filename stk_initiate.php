@@ -4,13 +4,13 @@ if(isset($_POST['submit'])){
   date_default_timezone_set('Africa/Nairobi');
 
   # access token
-  $consumerKey = '##'; //Your app Consumer Key here
-  $consumerSecret = '##'; // Your app Secret here
+  $consumerKey = 'E7J5vujcTHXjVLOBA0FS2gx3S5Wp61Dl'; //Your app Consumer Key here
+  $consumerSecret = '6NfSaurHLd7ab5qF'; // Your app Secret here
 
   # define the variales
   # provide the following details, this part is found on your test credentials on the developer account
   $BusinessShortCode = '174379'; //This is just a demo number
-  $Passkey = '##';  
+  $Passkey = 'bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919';  
   
   /*
     "PartyA"  should be the actual client's phone number or your phone number, following the format (2547...)
